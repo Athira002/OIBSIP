@@ -1,3 +1,3 @@
 # Pyhon Programming Intern @ OasisInfobyte
 
-![OasisInfobyte logo](https://github.com/Athira002/OIBSIP/blob/d79f91a01af0811b394bfc25eb53397bb3b90ca0/oasisinfobyte.jpg)
+![OasisInfobyte logo](https://github.com/Athira002/OIBSIP/blob/4d631fa69c4918ceb0c72336a3f1773167b93755/Oasis%20Infobyte%20Logo.jpg)
