@@ -65,7 +65,7 @@ User Input: Accepts height (in meters) and weight (in kilograms) from the user.
 
 BMI Calculation: Applies the standard BMI formula:
 
-![BMI Formula](https://latex.codecogs.com/png.image?\dpi{110}&space;BMI=\frac{\text{weight(kg)}}{\text{height(m)}^2})
+![BMI Formula](https://latex.codecogs.com/png.image?\dpi{110}\color[rgb]{0.6,0.6,0.6}{BMI=\frac{\text{weight(kg)}}{\text{height(m)}^2}})
 
 Health Status Classification: Based on BMI value, the result is categorized as:
 
