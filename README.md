@@ -4,7 +4,7 @@
 
 # Project 1: Python-Based Chat Application (Client-Server Model)
 
-## Objective:
+## 📝 Objective:
 
 Developed a real-time chat application using Python's socket programming to facilitate communication between multiple clients through a centralized server.
 
@@ -35,6 +35,8 @@ This project demonstrates proficiency in network programming and concurrency in 
 
 # Project 2: Random Password Generator – Python Project
 
+## 📝 Objective
+
 This project is a Python-based random password generator that allows users to create secure passwords of customizable length. The main objective is to ensure password strength by randomly selecting a mix of uppercase and lowercase letters, digits, and special characters, reducing the risk of brute-force attacks.
 
 ## 💡 Key Features:
@@ -57,7 +59,7 @@ The goal was to develop a utility that promotes cybersecurity awareness by demon
 
 # Project 3: BMI Calculator – Python Project
 
-## Objective
+## 📝 Objective
 
 This is a Python-based Body Mass Index (BMI) Calculator that computes an individual's BMI based on user input (height and weight) and classifies their health status accordingly.
 
@@ -87,7 +89,7 @@ Python (core logic)
 
 Libraries: Basic built-in functions (input(), conditional statements)
 
-## 🎯 Purpose & Learning Outcome:
+## 🔍 Purpose & Learning Outcome:
 
 This project helped me strengthen my understanding of Python basics, conditionals, and user interaction. It also demonstrates how coding can be applied to solve real-world problems in health and wellness.
 
