@@ -55,3 +55,45 @@ Libraries: random, string
 
 The goal was to develop a utility that promotes cybersecurity awareness by demonstrating how strong passwords can be generated automatically. It also helped me practice basic Python programming, user interaction, and logic building.
 
+# Project 3: BMI Calculator – Python Project
+
+This is a Python-based Body Mass Index (BMI) Calculator that computes an individual's BMI based on user input (height and weight) and classifies their health status accordingly.
+
+## 💡 Key Features:
+
+User Input: Accepts height (in meters) and weight (in kilograms) from the user.
+
+BMI Calculation: Applies the standard BMI formula:
+
+BMI
+=
+weight (kg)
+height (m)
+2
+BMI= 
+height (m) 
+2
+ 
+weight (kg)
+​
+ 
+Health Status Classification: Based on BMI value, the result is categorized as:
+
+Underweight
+
+Normal weight
+
+Overweight
+
+Obese
+
+## 🛠 Technologies Used:
+
+Python (core logic)
+
+Libraries: Basic built-in functions (input(), conditional statements)
+
+## 🎯 Purpose & Learning Outcome:
+
+This project helped me strengthen my understanding of Python basics, conditionals, and user interaction. It also demonstrates how coding can be applied to solve real-world problems in health and wellness.
+
