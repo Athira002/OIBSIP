@@ -57,6 +57,8 @@ The goal was to develop a utility that promotes cybersecurity awareness by demon
 
 # Project 3: BMI Calculator – Python Project
 
+## Objective
+
 This is a Python-based Body Mass Index (BMI) Calculator that computes an individual's BMI based on user input (height and weight) and classifies their health status accordingly.
 
 ## 💡 Key Features:
