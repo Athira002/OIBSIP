@@ -65,17 +65,7 @@ User Input: Accepts height (in meters) and weight (in kilograms) from the user.
 
 BMI Calculation: Applies the standard BMI formula:
 
-BMI
-=
-weight (kg)
-height (m)
-2
-BMI= 
-height (m) 
-2
- 
-weight (kg)
-​
+BMI = weight (kg)/height (m)^2
  
 Health Status Classification: Based on BMI value, the result is categorized as:
 
