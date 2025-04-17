@@ -1,6 +1,6 @@
 # Python Programming Internship @ OasisInfobyte
 
-![OasisInfobyte logo](https://github.com/Athira002/OIBSIP/blob/94c80bd2eb2175a5a4d9375f764b2c7cef88c694/Oasis%20Infobyte%20Logo.jpg)
+![OasisInfobyte logo](https://github.com/Athira002/OIBSIP/blob/fd44ce927a5d66a6324785ec73744afc8d55e76e/Oasis%20Infobyte%20logo.jpg)
 
 # Project 1: Python-Based Chat Application (Client-Server Model)
 
