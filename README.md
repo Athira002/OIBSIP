@@ -83,10 +83,6 @@ Overweight
 
 Obese
 
-## Certificate
-
-[![View Certificate](https://img.shields.io/badge/Certificate-View-green)](https://github.com/Athira002/OIBSIP/blob/7de2af6438f2d65a411a2b988b9272fcb4637b96/Athira%20Sreekumar%20%20Certificate.pdf)
-
 ## 🛠 Technologies Used:
 
 Python (core logic)
@@ -97,3 +93,6 @@ Libraries: Basic built-in functions (input(), conditional statements)
 
 This project helped me strengthen my understanding of Python basics, conditionals, and user interaction. It also demonstrates how coding can be applied to solve real-world problems in health and wellness.
 
+## Certificate
+
+[![View Certificate](https://img.shields.io/badge/Certificate-View-green)](https://github.com/Athira002/OIBSIP/blob/7de2af6438f2d65a411a2b988b9272fcb4637b96/Athira%20Sreekumar%20%20Certificate.pdf)
