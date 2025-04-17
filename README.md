@@ -8,7 +8,7 @@
 
 Developed a real-time chat application using Python's socket programming to facilitate communication between multiple clients through a centralized server.
 
-## Key Features:
+## 💡 Key Features:
 
 • Client-Server Architecture: Implemented a server that manages incoming
 client connections and broadcasts messages to all connected clients.
@@ -22,14 +22,14 @@ instantly, ensuring seamless interaction.
 • Graceful Disconnection: Clients can exit the chat by typing 'exit', ensuring a
 clean shutdown of the connection.
 
-## Technical Stack:
+## 🛠 Technical Stack:
 
 • Programming Language: Python
 
 • Libraries Used: socket for network communication, threading for handling
 multiple connections concurrently.
 
-## Outcome:
+## 🔍 Outcome:
 
 This project demonstrates proficiency in network programming and concurrency in Python. It showcases the ability to build foundational communication tools, emphasizing real-time data exchange and multi-threaded application design.
 
