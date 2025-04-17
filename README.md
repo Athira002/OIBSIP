@@ -29,7 +29,7 @@ clean shutdown of the connection.
 • Libraries Used: socket for network communication, threading for handling
 multiple connections concurrently.
 
-## 🔍 Outcome:
+## 🔍 Purpose & Outcome:
 
 This project demonstrates proficiency in network programming and concurrency in Python. It showcases the ability to build foundational communication tools, emphasizing real-time data exchange and multi-threaded application design.
 
