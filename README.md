@@ -2,6 +2,10 @@
 
 ![OasisInfobyte logo](https://github.com/Athira002/OIBSIP/blob/fd44ce927a5d66a6324785ec73744afc8d55e76e/Oasis%20Infobyte%20logo.jpg)
 
+## Certificate
+
+[![View Certificate](https://img.shields.io/badge/Certificate-View-green)](https://github.com/Athira002/OIBSIP/blob/7de2af6438f2d65a411a2b988b9272fcb4637b96/Athira%20Sreekumar%20%20Certificate.pdf)
+
 # Project 1: Python-Based Chat Application (Client-Server Model)
 
 ## 📝 Objective:
@@ -93,6 +97,3 @@ Libraries: Basic built-in functions (input(), conditional statements)
 
 This project helped me strengthen my understanding of Python basics, conditionals, and user interaction. It also demonstrates how coding can be applied to solve real-world problems in health and wellness.
 
-## Certificate
-
-[![View Certificate](https://img.shields.io/badge/Certificate-View-green)](https://github.com/Athira002/OIBSIP/blob/7de2af6438f2d65a411a2b988b9272fcb4637b96/Athira%20Sreekumar%20%20Certificate.pdf)
