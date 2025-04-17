@@ -1,6 +1,6 @@
 # Python Programming Internship @ OasisInfobyte
 
-![OasisInfobyte logo](https://latex.codecogs.com/png.image?\dpi{110}\color[rgb]{0.6,0.6,0.6}{\boldsymbol{\textbf{BMI}}=\frac{\textbf{weight(kg)}}{\textbf{height(m)}^2}})
+![OasisInfobyte logo](https://github.com/Athira002/OIBSIP/blob/94c80bd2eb2175a5a4d9375f764b2c7cef88c694/Oasis%20Infobyte%20Logo.jpg)
 
 # Project 1: Python-Based Chat Application (Client-Server Model)
 
