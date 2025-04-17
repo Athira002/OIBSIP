@@ -83,6 +83,10 @@ Overweight
 
 Obese
 
+## Certificate
+
+[![View Certificate](https://img.shields.io/badge/Certificate-View-green)](https://github.com/Athira002/OIBSIP/blob/7de2af6438f2d65a411a2b988b9272fcb4637b96/Athira%20Sreekumar%20%20Certificate.pdf)
+
 ## 🛠 Technologies Used:
 
 Python (core logic)
